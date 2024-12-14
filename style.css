@@ -1,0 +1,14 @@
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("Bienvenue sur mon site !");
+  });
+
+section {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #4CAF50;
+}
